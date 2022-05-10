@@ -37,7 +37,7 @@ Caso queira imprimir na tela os registros adicione o parametro "mostar_dados" vi
 https://development.divdigital.com.br/forseti/?mostar_dados=s
 ```
 
-## ☕ Sobre o desafio
+## Sobre o desafio
 Gostei muito de participar desse teste foi algo muito prazerozo de se fazer.
 
 Utilizei a classe DOMDocument para manipular o HTML e buscar os dados solicitados no teste. 
